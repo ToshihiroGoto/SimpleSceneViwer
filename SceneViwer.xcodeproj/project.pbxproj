@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		825C3C1A203FCFF1000860D6 /* max.scn in Resources */ = {isa = PBXBuildFile; fileRef = 825C3C19203FCFF1000860D6 /* max.scn */; };
 		82BA31FD203D4C1A00434CFD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82BA31FC203D4C1A00434CFD /* AppDelegate.swift */; };
 		82BA31FF203D4C1A00434CFD /* DocumentBrowserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82BA31FE203D4C1A00434CFD /* DocumentBrowserViewController.swift */; };
 		82BA3201203D4C1A00434CFD /* DocumentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82BA3200203D4C1A00434CFD /* DocumentViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		825C3C19203FCFF1000860D6 /* max.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = max.scn; sourceTree = "<group>"; };
 		82BA31F9203D4C1A00434CFD /* SceneViwer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SceneViwer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		82BA31FC203D4C1A00434CFD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		82BA31FE203D4C1A00434CFD /* DocumentBrowserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentBrowserViewController.swift; sourceTree = "<group>"; };
@@ -105,8 +107,9 @@
 				82BA31FE203D4C1A00434CFD /* DocumentBrowserViewController.swift */,
 				82BA3200203D4C1A00434CFD /* DocumentViewController.swift */,
 				82BA3202203D4C1A00434CFD /* Document.swift */,
-				82BA3204203D4C1A00434CFD /* Main.storyboard */,
+				825C3C19203FCFF1000860D6 /* max.scn */,
 				82BA3207203D4C1A00434CFD /* Assets.xcassets */,
+				82BA3204203D4C1A00434CFD /* Main.storyboard */,
 				82BA3209203D4C1A00434CFD /* LaunchScreen.storyboard */,
 				82BA320C203D4C1A00434CFD /* Info.plist */,
 			);
@@ -241,6 +244,7 @@
 				82BA320B203D4C1A00434CFD /* LaunchScreen.storyboard in Resources */,
 				82BA3208203D4C1A00434CFD /* Assets.xcassets in Resources */,
 				82BA3206203D4C1A00434CFD /* Main.storyboard in Resources */,
+				825C3C1A203FCFF1000860D6 /* max.scn in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
